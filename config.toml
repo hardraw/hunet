@@ -10,7 +10,7 @@ summaryLength = 10
   category = "categories"
   tag = "tags"
 
-# Menu
+# Menu principal
 [menu]
     [[menu.nav]]
     name = "About Us"
